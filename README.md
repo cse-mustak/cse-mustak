@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mustak Ahmed</h1>
-<h3 align="center">A Python developer from India</h3>
+<h3 align="center">A Java & Python developer from India</h3>
 
 - 🌱 I’m currently learning **Python & React & Node Js & Java**
 
