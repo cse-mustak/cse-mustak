@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Ful Stack Development  &  AI and ML**
 
-- 💬 Ask me about **C C++ Java Python React NodeJs MongoDB JavaScript**
+- 💬 Ask me about **C >> C++ >> Java >> Python >> React >> NodeJs >> MongoDB >> JavaScript**
 
 - 📫 How to reach me **st.mustak24@gmail.com**
 
